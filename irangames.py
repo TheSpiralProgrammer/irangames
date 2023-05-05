@@ -34,7 +34,7 @@ if __name__ == "__main__":
     label.show()
     
     label2 = QLabel(w)
-    label2.setText("فعلا چیزی اینجا نیست...")
+    label2.setText("فعلا چیزی اینجا نیست")
     label2.move(300,250)
     label2.show()
     
